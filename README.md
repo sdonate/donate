@@ -11,6 +11,8 @@
 ## Donate
 0xc2dfA1C7aeE279Bb596FEFD665B53c8D7d918532 (BSC Network - BEP-20)
 
+TRdGtjLNaZuTrAwnzfskrg4VJTpMWGxb4d (TRX)
+
 Thank you!
 
 ## License
