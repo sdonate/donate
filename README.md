@@ -9,9 +9,9 @@
 2. Server: PHP
 
 ## Donate
-0xc2dfA1C7aeE279Bb596FEFD665B53c8D7d918532 (BSC Network - BEP-20)
+0xeB89cC89F2e22DAc379779dDEfcaa63CB51e9803 (BSC Network - BEP-20)
 
-TRdGtjLNaZuTrAwnzfskrg4VJTpMWGxb4d (TRX)
+TQbr7bRympP6PhynVuorhreAdHyw62aS1K (TRX)
 
 Thank you!
 
